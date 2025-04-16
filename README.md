@@ -20,6 +20,13 @@ Para isso, terão de:
 5. Deve haver um botão Guardar (que só existe se se estiver a editar)
 6. Ao guardar, deve alterar a variável `products`
 
+Após estar funcional (e terem o projeto no Netlify com link), devem adicionar as alterações ao repositório:
+1. `git add .`
+2. `git commit -m "Exercício Concluído"`
+3. `git push`
+
+---
+
 ## Submissão
 
 Devem submeter, no Teams, o link do vosso repositório, com o ficheiro README (podem eliminar este ou acrescentar no final).
