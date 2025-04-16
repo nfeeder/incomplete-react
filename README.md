@@ -1,8 +1,32 @@
-# React + Vite
+# Projeto Incompleto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Neste projeto de React, vão trabalhar em equipa para fazer com que dê para alterar o título e o preço de cada produto.
 
-Currently, two official plugins are available:
+## Utilizando este repositório
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Devem ter conta no GitHub.
+2. Devem fazer `fork` do repositório [deste link](https://github.com/Pokfinner/incomplete-react).
+3. Devem fazer as vossas implementações, adicionar um commit e fazer push.
+4. Devem submeter, no Teams, o link do vosso repositório.
+5. O vosso repositório deve ter um `README.md` onde consta um link da build final do projeto disponível no Netlify.
+
+---
+
+Para isso, terão de:
+1. Criar um botão (em cada produto)
+2. Criar um estado dentro do produto para saber se se está a editar
+3. O botão deve alterar esse estado
+4. Dependendo do estado, o produto mostra o mesmo título / preço, em texto (não editando) ou em input (editando)
+5. Deve haver um botão Guardar (que só existe se se estiver a editar)
+6. Ao guardar, deve alterar a variável `products`
+
+## Submissão
+
+Devem submeter, no Teams, o link do vosso repositório, com o ficheiro README (podem eliminar este ou acrescentar no final).
+
+Critérios de Avaliação:
+- 80%: Funcionalidade do exerício
+- 10%: Ficheiro README com o link
+- 10%: Todos os utilizadores submeteram o mesmo link
+
+## Boa Sorte
